@@ -3,6 +3,7 @@ A collection of links that can be used for Bluemix hands-on workshops and labs. 
 
 ## Registration / verification of registration
 Before you start, you want to make sure all your participants are registered with Bluemix and Bluemix DevOps Services. The instructions are:
+
 1. Go to https://hub.jazz.net
 2. Click “Sign up” at the top left (if you already have an IBM id, test it out by clicking “Log in”).
 3. After Signing up, check the email you registered with and click the link to verify your account
