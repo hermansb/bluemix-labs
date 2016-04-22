@@ -22,6 +22,9 @@ Before you start, you want to make sure all your participants are registered wit
 - Lots of workshop links: http://bluelabs.mybluemix.net/workshops/ 
 - Bluemix DevOps Services docs & tutorials: https://hub.jazz.net/docs (specifically https://hub.jazz.net/tutorials/ )
 
+## Videos
+
+- An Overview of IBM Bluemix DevOps Services: https://www.youtube.com/watch?v=VJesera9jR0
 
 ## Contributions
 - Feel free to send pull requests for links to any tutorials or labs that you know of/use.
