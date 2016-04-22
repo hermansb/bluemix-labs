@@ -25,6 +25,7 @@ Before you start, you want to make sure all your participants are registered wit
 ## Videos
 
 - An Overview of IBM Bluemix DevOps Services: https://www.youtube.com/watch?v=VJesera9jR0
+- Teaser for what's next for Bluemix DevOps Services: https://www.youtube.com/watch?v=4fu5_f6VRAY ( https://new-console.ng.bluemix.net/devops/ )
 
 ## Contributions
 - Feel free to send pull requests for links to any tutorials or labs that you know of/use.
